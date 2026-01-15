@@ -8,3 +8,9 @@ Se adjuntan los script de base de datos:
 
 https://github.com/javiertecnologia24/reto-backend/blob/main/Script-Creacion-BaseDatos-SqlServer.sql
 https://github.com/javiertecnologia24/reto-backend/blob/main/Script-Inserts-SqlServer.sql
+
+Se adjunta las pantallas de los endpoints creados
+https://github.com/javiertecnologia24/reto-backend/blob/main/EndPoints.pdf
+
+Se adjunta la coleccion de endpoint creados en POSTMAN
+https://github.com/javiertecnologia24/reto-backend/blob/main/Pedidos.postman_collection.json
